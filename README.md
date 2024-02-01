@@ -2,7 +2,7 @@
 - - 👀 I’m interested in data analytics and engineering
 - 🌱 I’m currently learning AWS and Databricks concepts
 - 💞️ I’m looking to collaborate on Data Based Projects
-- 📫Cnsider me in projects and reach me through my LinkedIn ID
+- 📫Consider me in projects and reach me through my LinkedIn ID
 - www.linkedin.com/in/
 sonu-yohannan-b412b124a
 
